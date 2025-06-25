@@ -1,0 +1,56 @@
+# Logs
+*.log
+logs/
+log/
+*.log.*
+
+# Build outputs
+*.out
+*.bin
+*.exe
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Test coverage
+coverage/
+
+# Cache
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Debug
+*.pdb
+
+# User-specific files
+*.user
+*.userosscache
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Local development
+venv/
+env/
+.env/
